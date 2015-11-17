@@ -12,9 +12,6 @@
         }
     ],
     "bin": [
-        "bin/heroku-hhvm-apache2",
-        "bin/heroku-hhvm-nginx",
         "bin/heroku-php-apache2",
-        "bin/heroku-php-nginx"
     ]
 }
